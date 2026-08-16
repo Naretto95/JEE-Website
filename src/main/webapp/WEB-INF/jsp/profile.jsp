@@ -1,8 +1,8 @@
-<%@page import="model.Commentaire"%>
-<%@page import="model.LigneCommande"%>
+<%@page import="com.naretto.gamestore.model.Commentaire"%>
+<%@page import="com.naretto.gamestore.model.LigneCommande"%>
 <%@ page import="java.util.List" %>
-<%@page import="model.Commande"%>
-<%@page import="model.User"%>
+<%@page import="com.naretto.gamestore.model.Commande"%>
+<%@page import="com.naretto.gamestore.model.User"%>
 <%@ page language="java" contentType="text/html; charset=UTF-8"
     pageEncoding="UTF-8"%>
 <!DOCTYPE html>

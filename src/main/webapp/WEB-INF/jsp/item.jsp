@@ -1,6 +1,6 @@
 <%@page import="java.util.Base64"%>
-<%@page import="model.User"%>
-<%@page import="model.Produit"%>
+<%@page import="com.naretto.gamestore.model.User"%>
+<%@page import="com.naretto.gamestore.model.Produit"%>
 <%@ page language="java" contentType="text/html; charset=utf-8"
     pageEncoding="utf-8"%>
 <!DOCTYPE html>

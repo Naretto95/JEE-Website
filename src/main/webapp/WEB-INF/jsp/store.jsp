@@ -1,8 +1,8 @@
 <%@page import="java.io.File"%>
-<%@page import="model.User"%>
-<%@page import="model.Produit"%>
+<%@page import="com.naretto.gamestore.model.User"%>
+<%@page import="com.naretto.gamestore.model.Produit"%>
 <%@ page import="java.util.ArrayList" %>
-<%@page import="enumeration.Categorie"%>
+<%@page import="com.naretto.gamestore.enumeration.Categorie"%>
 <%@page import="java.util.Base64"%>
 <%@ page language="java" contentType="text/html; charset=utf-8"
     pageEncoding="utf-8"%>

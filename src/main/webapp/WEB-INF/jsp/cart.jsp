@@ -1,6 +1,6 @@
-<%@page import="model.User"%>
-<%@page import="model.LigneCommande"%>
-<%@ page language="java" import="model.Commande" contentType="text/html; charset=utf-8"
+<%@page import="com.naretto.gamestore.model.User"%>
+<%@page import="com.naretto.gamestore.model.LigneCommande"%>
+<%@ page language="java" import="com.naretto.gamestore.model.Commande" contentType="text/html; charset=utf-8"
     pageEncoding="utf-8"%>
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core"%>
 <%@ taglib prefix="form" uri="http://www.springframework.org/tags/form"%>
